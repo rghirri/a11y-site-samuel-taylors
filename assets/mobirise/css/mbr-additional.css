@@ -1463,7 +1463,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #232323;
+  background-color: black;
 }
 .cid-rgDtXICFi7 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1692,7 +1692,7 @@ body {
 }
 .cid-rgDtXICFi7 .nav-link:hover,
 .cid-rgDtXICFi7 .dropdown-item:hover {
-  color: #767676 !important;
+  color: #db2a97 !important;
 }
 .cid-rgE1IHAUk3 {
   background-image: url("../../../assets/images/lisa-woakes-697094-unsplash-2000x1333.jpg");
@@ -2072,13 +2072,13 @@ body {
   background-color: #2e2e2e;
 }
 .cid-rgGgREL60O .navbar {
-  background: #ffffff;
+  background: #2e2e2e;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rgGgREL60O .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #2e2e2e;
 }
 .cid-rgGgREL60O a {
   font-style: normal;
@@ -2240,7 +2240,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #232323;
+  background-color: white;
 }
 .cid-rgGgREL60O button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2469,12 +2469,14 @@ body {
 }
 .cid-rgGgREL60O .nav-link:hover,
 .cid-rgGgREL60O .dropdown-item:hover {
-  color: #767676 !important;
+  color: #fff67c !important;
 }
 .cid-rgGgRGAB0A {
   padding-top: 120px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/jo-szczepanska-57782-unsplash-1-2000x1333.jpg");
+  padding-bottom: 150px;
+  background-position: center;
+  background-size:cover;
+  background-image: url("../../../assets/images/hero_image_three.png");
 }
 .cid-rgLBuPZXbX {
   padding-top: 45px;
@@ -2524,6 +2526,7 @@ body {
 .cid-rgGgRLPwMX .title {
   margin-bottom: 2rem;
 }
+
 .cid-rgGgRLPwMX .mbr-section-subtitle {
   color: #767676;
 }
@@ -2554,7 +2557,7 @@ body {
   text-align: left;
 }
 .cid-rgGgRNwIen p {
-  color: #767676;
+  color: #313131;
   text-align: left;
 }
 .cid-rgGgRNwIen .card-box {
@@ -2630,5 +2633,9 @@ body {
 .cid-rgGgRR7IJo {
   padding-top: 30px;
   padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+
+#hero_title{
   background-color: #2e2e2e;
 }
