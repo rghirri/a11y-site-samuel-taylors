@@ -2728,3 +2728,10 @@ body {
   background-color: #2e2e2e;
 }
 
+#hero_title{
+  padding: 1rem;
+  margin-top: 10rem;
+  background: linear-gradient(#ebda3d49, #2e2e2e48);
+  border-radius: 1%;
+}
+
